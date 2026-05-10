@@ -1,0 +1,51 @@
+[
+  {
+    "id": "pi",
+    "name": "Dr. John Smith",
+    "role": "Principal Investigator",
+    "area": "Research Lab",
+    "annualSalary": 200000
+  },
+  {
+    "id": "lab-tech-1",
+    "name": "Emily Chen",
+    "role": "Research Technician",
+    "area": "Research Lab",
+    "annualSalary": 52000
+  },
+  {
+    "id": "lab-tech-2",
+    "name": "David Nguyen",
+    "role": "Research Technician",
+    "area": "Research Lab",
+    "annualSalary": 50000
+  },
+  {
+    "id": "postdoc-2",
+    "name": "Dr. Kevin Park",
+    "role": "Postdoctoral Researcher",
+    "area": "Research Lab",
+    "annualSalary": 61008
+  },
+  {
+    "id": "core-mgr",
+    "name": "Lisa Johnson",
+    "role": "Core Manager",
+    "area": "Research Core",
+    "annualSalary": 70000
+  },
+  {
+    "id": "core-tech",
+    "name": "Michael Brown",
+    "role": "Core Technician",
+    "area": "Research Core",
+    "annualSalary": 48000
+  },
+  {
+    "id": "core-surg",
+    "name": "Dr. Rachel Davis",
+    "role": "Core Surgeon",
+    "area": "Research Core",
+    "annualSalary": 85000
+  }
+]

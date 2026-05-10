@@ -1,0 +1,27 @@
+[
+  { "personId": "pi", "accountId": "lab-institutional", "percent": 18.0, "annualAmount": 36000 },
+  { "personId": "pi", "accountId": "lab-r01-1", "percent": 30.0, "annualAmount": 60000 },
+  { "personId": "pi", "accountId": "lab-r01-2", "percent": 30.0, "annualAmount": 60000 },
+  { "personId": "pi", "accountId": "core-grant-1", "percent": 7.0, "annualAmount": 14000 },
+  { "personId": "pi", "accountId": "core-grant-2", "percent": 15.0, "annualAmount": 30000 },
+
+  { "personId": "lab-tech-1", "accountId": "lab-institutional", "percent": 40.0, "annualAmount": 20800 },
+  { "personId": "lab-tech-1", "accountId": "lab-r01-1", "percent": 60.0, "annualAmount": 31200 },
+
+  { "personId": "lab-tech-2", "accountId": "lab-institutional", "percent": 50.0, "annualAmount": 25000 },
+  { "personId": "lab-tech-2", "accountId": "lab-r01-2", "percent": 50.0, "annualAmount": 25000 },
+
+  { "personId": "postdoc-2", "accountId": "lab-fellowship", "percent": 75.0, "annualAmount": 45756 },
+  { "personId": "postdoc-2", "accountId": "lab-pilot", "percent": 25.0, "annualAmount": 15252 },
+
+  { "personId": "core-mgr", "accountId": "core-institutional", "percent": 20.0, "annualAmount": 14000 },
+  { "personId": "core-mgr", "accountId": "core-grant-1", "percent": 30.0, "annualAmount": 21000 },
+  { "personId": "core-mgr", "accountId": "core-grant-2", "percent": 50.0, "annualAmount": 35000 },
+
+  { "personId": "core-tech", "accountId": "core-institutional", "percent": 25.0, "annualAmount": 12000 },
+  { "personId": "core-tech", "accountId": "core-grant-1", "percent": 25.0, "annualAmount": 12000 },
+  { "personId": "core-tech", "accountId": "core-grant-2", "percent": 50.0, "annualAmount": 24000 },
+
+  { "personId": "core-surg", "accountId": "core-institutional", "percent": 15.0, "annualAmount": 12750 },
+  { "personId": "core-surg", "accountId": "core-grant-2", "percent": 85.0, "annualAmount": 72250 }
+]

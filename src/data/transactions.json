@@ -1,0 +1,2570 @@
+[
+  {
+    "id": "tx-0009",
+    "date": "2025-07-01",
+    "accountId": "core-institutional",
+    "category": "Salary",
+    "amount": 1166.67,
+    "description": "Lisa Johnson - 20% effort"
+  },
+  {
+    "id": "tx-0010",
+    "date": "2025-07-01",
+    "accountId": "core-institutional",
+    "category": "Fringe",
+    "amount": 466.67,
+    "description": "Lisa Johnson - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0011",
+    "date": "2025-07-01",
+    "accountId": "core-institutional",
+    "category": "Salary",
+    "amount": 1000,
+    "description": "Michael Brown - 25% effort"
+  },
+  {
+    "id": "tx-0012",
+    "date": "2025-07-01",
+    "accountId": "core-institutional",
+    "category": "Fringe",
+    "amount": 400,
+    "description": "Michael Brown - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0013",
+    "date": "2025-07-01",
+    "accountId": "core-institutional",
+    "category": "Salary",
+    "amount": 1062.5,
+    "description": "Dr. Rachel Davis - 15% effort"
+  },
+  {
+    "id": "tx-0014",
+    "date": "2025-07-01",
+    "accountId": "core-institutional",
+    "category": "Fringe",
+    "amount": 425,
+    "description": "Dr. Rachel Davis - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0272",
+    "date": "2025-07-01",
+    "accountId": "core-institutional",
+    "category": "Supplies",
+    "amount": 220.99,
+    "description": "Core operational supplies"
+  },
+  {
+    "id": "tx-0273",
+    "date": "2025-07-01",
+    "accountId": "core-institutional",
+    "category": "Animal Costs",
+    "amount": 194.45,
+    "description": "Animal housing — core facility"
+  },
+  {
+    "id": "tx-0007",
+    "date": "2025-07-01",
+    "accountId": "lab-fellowship",
+    "category": "Salary",
+    "amount": 3813,
+    "description": "Dr. Kevin Park - 75% effort"
+  },
+  {
+    "id": "tx-0008",
+    "date": "2025-07-01",
+    "accountId": "lab-fellowship",
+    "category": "Fringe",
+    "amount": 1525.2,
+    "description": "Dr. Kevin Park - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0253",
+    "date": "2025-07-01",
+    "accountId": "lab-fellowship",
+    "category": "Supplies",
+    "amount": 623.23,
+    "description": "Research allowance spending"
+  },
+  {
+    "id": "tx-0001",
+    "date": "2025-07-01",
+    "accountId": "lab-institutional",
+    "category": "Salary",
+    "amount": 3000,
+    "description": "Dr. John Smith - 18% effort"
+  },
+  {
+    "id": "tx-0002",
+    "date": "2025-07-01",
+    "accountId": "lab-institutional",
+    "category": "Fringe",
+    "amount": 1200,
+    "description": "Dr. John Smith - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0003",
+    "date": "2025-07-01",
+    "accountId": "lab-institutional",
+    "category": "Salary",
+    "amount": 1733.33,
+    "description": "Emily Chen - 40% effort"
+  },
+  {
+    "id": "tx-0004",
+    "date": "2025-07-01",
+    "accountId": "lab-institutional",
+    "category": "Fringe",
+    "amount": 693.33,
+    "description": "Emily Chen - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0005",
+    "date": "2025-07-01",
+    "accountId": "lab-institutional",
+    "category": "Salary",
+    "amount": 2083.33,
+    "description": "David Nguyen - 50% effort"
+  },
+  {
+    "id": "tx-0006",
+    "date": "2025-07-01",
+    "accountId": "lab-institutional",
+    "category": "Fringe",
+    "amount": 833.33,
+    "description": "David Nguyen - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0217",
+    "date": "2025-07-01",
+    "accountId": "lab-institutional",
+    "category": "Supplies",
+    "amount": 2955.77,
+    "description": "Lab reagents and consumables"
+  },
+  {
+    "id": "tx-0218",
+    "date": "2025-07-01",
+    "accountId": "lab-institutional",
+    "category": "Other",
+    "amount": 465.98,
+    "description": "Core facility fees"
+  },
+  {
+    "id": "tx-0017",
+    "date": "2025-08-01",
+    "accountId": "core-grant-2",
+    "category": "Salary",
+    "amount": 2500,
+    "description": "Dr. John Smith - 15% effort"
+  },
+  {
+    "id": "tx-0018",
+    "date": "2025-08-01",
+    "accountId": "core-grant-2",
+    "category": "Fringe",
+    "amount": 1000,
+    "description": "Dr. John Smith - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0027",
+    "date": "2025-08-01",
+    "accountId": "core-grant-2",
+    "category": "Salary",
+    "amount": 2916.67,
+    "description": "Lisa Johnson - 50% effort"
+  },
+  {
+    "id": "tx-0028",
+    "date": "2025-08-01",
+    "accountId": "core-grant-2",
+    "category": "Fringe",
+    "amount": 1166.67,
+    "description": "Lisa Johnson - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0031",
+    "date": "2025-08-01",
+    "accountId": "core-grant-2",
+    "category": "Salary",
+    "amount": 2000,
+    "description": "Michael Brown - 50% effort"
+  },
+  {
+    "id": "tx-0032",
+    "date": "2025-08-01",
+    "accountId": "core-grant-2",
+    "category": "Fringe",
+    "amount": 800,
+    "description": "Michael Brown - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0035",
+    "date": "2025-08-01",
+    "accountId": "core-grant-2",
+    "category": "Salary",
+    "amount": 6020.83,
+    "description": "Dr. Rachel Davis - 85% effort"
+  },
+  {
+    "id": "tx-0036",
+    "date": "2025-08-01",
+    "accountId": "core-grant-2",
+    "category": "Fringe",
+    "amount": 2408.33,
+    "description": "Dr. Rachel Davis - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0296",
+    "date": "2025-08-01",
+    "accountId": "core-grant-2",
+    "category": "Supplies",
+    "amount": 979.28,
+    "description": "Core research supplies"
+  },
+  {
+    "id": "tx-0297",
+    "date": "2025-08-01",
+    "accountId": "core-grant-2",
+    "category": "Animal Costs",
+    "amount": 1831.36,
+    "description": "Core-funded animal studies"
+  },
+  {
+    "id": "tx-0298",
+    "date": "2025-08-01",
+    "accountId": "core-grant-2",
+    "category": "Travel",
+    "amount": 405.55,
+    "description": "Center meeting and workshop travel"
+  },
+  {
+    "id": "tx-0299",
+    "date": "2025-08-01",
+    "accountId": "core-grant-2",
+    "category": "Other",
+    "amount": 412.42,
+    "description": "Software, services, misc"
+  },
+  {
+    "id": "tx-0025",
+    "date": "2025-08-01",
+    "accountId": "core-institutional",
+    "category": "Salary",
+    "amount": 1166.67,
+    "description": "Lisa Johnson - 20% effort"
+  },
+  {
+    "id": "tx-0026",
+    "date": "2025-08-01",
+    "accountId": "core-institutional",
+    "category": "Fringe",
+    "amount": 466.67,
+    "description": "Lisa Johnson - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0029",
+    "date": "2025-08-01",
+    "accountId": "core-institutional",
+    "category": "Salary",
+    "amount": 1000,
+    "description": "Michael Brown - 25% effort"
+  },
+  {
+    "id": "tx-0030",
+    "date": "2025-08-01",
+    "accountId": "core-institutional",
+    "category": "Fringe",
+    "amount": 400,
+    "description": "Michael Brown - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0033",
+    "date": "2025-08-01",
+    "accountId": "core-institutional",
+    "category": "Salary",
+    "amount": 1062.5,
+    "description": "Dr. Rachel Davis - 15% effort"
+  },
+  {
+    "id": "tx-0034",
+    "date": "2025-08-01",
+    "accountId": "core-institutional",
+    "category": "Fringe",
+    "amount": 425,
+    "description": "Dr. Rachel Davis - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0274",
+    "date": "2025-08-01",
+    "accountId": "core-institutional",
+    "category": "Supplies",
+    "amount": 154.51,
+    "description": "Core operational supplies"
+  },
+  {
+    "id": "tx-0275",
+    "date": "2025-08-01",
+    "accountId": "core-institutional",
+    "category": "Animal Costs",
+    "amount": 213.56,
+    "description": "Animal housing — core facility"
+  },
+  {
+    "id": "tx-0023",
+    "date": "2025-08-01",
+    "accountId": "lab-fellowship",
+    "category": "Salary",
+    "amount": 3813,
+    "description": "Dr. Kevin Park - 75% effort"
+  },
+  {
+    "id": "tx-0024",
+    "date": "2025-08-01",
+    "accountId": "lab-fellowship",
+    "category": "Fringe",
+    "amount": 1525.2,
+    "description": "Dr. Kevin Park - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0254",
+    "date": "2025-08-01",
+    "accountId": "lab-fellowship",
+    "category": "Supplies",
+    "amount": 208.8,
+    "description": "Research allowance spending"
+  },
+  {
+    "id": "tx-0015",
+    "date": "2025-08-01",
+    "accountId": "lab-institutional",
+    "category": "Salary",
+    "amount": 3000,
+    "description": "Dr. John Smith - 18% effort"
+  },
+  {
+    "id": "tx-0016",
+    "date": "2025-08-01",
+    "accountId": "lab-institutional",
+    "category": "Fringe",
+    "amount": 1200,
+    "description": "Dr. John Smith - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0019",
+    "date": "2025-08-01",
+    "accountId": "lab-institutional",
+    "category": "Salary",
+    "amount": 1733.33,
+    "description": "Emily Chen - 40% effort"
+  },
+  {
+    "id": "tx-0020",
+    "date": "2025-08-01",
+    "accountId": "lab-institutional",
+    "category": "Fringe",
+    "amount": 693.33,
+    "description": "Emily Chen - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0021",
+    "date": "2025-08-01",
+    "accountId": "lab-institutional",
+    "category": "Salary",
+    "amount": 2083.33,
+    "description": "David Nguyen - 50% effort"
+  },
+  {
+    "id": "tx-0022",
+    "date": "2025-08-01",
+    "accountId": "lab-institutional",
+    "category": "Fringe",
+    "amount": 833.33,
+    "description": "David Nguyen - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0219",
+    "date": "2025-08-01",
+    "accountId": "lab-institutional",
+    "category": "Supplies",
+    "amount": 3246.79,
+    "description": "Lab reagents and consumables"
+  },
+  {
+    "id": "tx-0220",
+    "date": "2025-08-01",
+    "accountId": "lab-institutional",
+    "category": "Equipment",
+    "amount": 6136.6,
+    "description": "Lab equipment maintenance/purchase"
+  },
+  {
+    "id": "tx-0221",
+    "date": "2025-08-01",
+    "accountId": "lab-institutional",
+    "category": "Other",
+    "amount": 308.45,
+    "description": "Core facility fees"
+  },
+  {
+    "id": "tx-0039",
+    "date": "2025-09-01",
+    "accountId": "core-grant-2",
+    "category": "Salary",
+    "amount": 2500,
+    "description": "Dr. John Smith - 15% effort"
+  },
+  {
+    "id": "tx-0040",
+    "date": "2025-09-01",
+    "accountId": "core-grant-2",
+    "category": "Fringe",
+    "amount": 1000,
+    "description": "Dr. John Smith - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0049",
+    "date": "2025-09-01",
+    "accountId": "core-grant-2",
+    "category": "Salary",
+    "amount": 2916.67,
+    "description": "Lisa Johnson - 50% effort"
+  },
+  {
+    "id": "tx-0050",
+    "date": "2025-09-01",
+    "accountId": "core-grant-2",
+    "category": "Fringe",
+    "amount": 1166.67,
+    "description": "Lisa Johnson - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0053",
+    "date": "2025-09-01",
+    "accountId": "core-grant-2",
+    "category": "Salary",
+    "amount": 2000,
+    "description": "Michael Brown - 50% effort"
+  },
+  {
+    "id": "tx-0054",
+    "date": "2025-09-01",
+    "accountId": "core-grant-2",
+    "category": "Fringe",
+    "amount": 800,
+    "description": "Michael Brown - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0057",
+    "date": "2025-09-01",
+    "accountId": "core-grant-2",
+    "category": "Salary",
+    "amount": 6020.83,
+    "description": "Dr. Rachel Davis - 85% effort"
+  },
+  {
+    "id": "tx-0058",
+    "date": "2025-09-01",
+    "accountId": "core-grant-2",
+    "category": "Fringe",
+    "amount": 2408.33,
+    "description": "Dr. Rachel Davis - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0300",
+    "date": "2025-09-01",
+    "accountId": "core-grant-2",
+    "category": "Supplies",
+    "amount": 1511.21,
+    "description": "Core research supplies"
+  },
+  {
+    "id": "tx-0301",
+    "date": "2025-09-01",
+    "accountId": "core-grant-2",
+    "category": "Animal Costs",
+    "amount": 1208.45,
+    "description": "Core-funded animal studies"
+  },
+  {
+    "id": "tx-0302",
+    "date": "2025-09-01",
+    "accountId": "core-grant-2",
+    "category": "Other",
+    "amount": 334.45,
+    "description": "Software, services, misc"
+  },
+  {
+    "id": "tx-0047",
+    "date": "2025-09-01",
+    "accountId": "core-institutional",
+    "category": "Salary",
+    "amount": 1166.67,
+    "description": "Lisa Johnson - 20% effort"
+  },
+  {
+    "id": "tx-0048",
+    "date": "2025-09-01",
+    "accountId": "core-institutional",
+    "category": "Fringe",
+    "amount": 466.67,
+    "description": "Lisa Johnson - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0051",
+    "date": "2025-09-01",
+    "accountId": "core-institutional",
+    "category": "Salary",
+    "amount": 1000,
+    "description": "Michael Brown - 25% effort"
+  },
+  {
+    "id": "tx-0052",
+    "date": "2025-09-01",
+    "accountId": "core-institutional",
+    "category": "Fringe",
+    "amount": 400,
+    "description": "Michael Brown - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0055",
+    "date": "2025-09-01",
+    "accountId": "core-institutional",
+    "category": "Salary",
+    "amount": 1062.5,
+    "description": "Dr. Rachel Davis - 15% effort"
+  },
+  {
+    "id": "tx-0056",
+    "date": "2025-09-01",
+    "accountId": "core-institutional",
+    "category": "Fringe",
+    "amount": 425,
+    "description": "Dr. Rachel Davis - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0276",
+    "date": "2025-09-01",
+    "accountId": "core-institutional",
+    "category": "Supplies",
+    "amount": 315.93,
+    "description": "Core operational supplies"
+  },
+  {
+    "id": "tx-0277",
+    "date": "2025-09-01",
+    "accountId": "core-institutional",
+    "category": "Animal Costs",
+    "amount": 125.64,
+    "description": "Animal housing — core facility"
+  },
+  {
+    "id": "tx-0045",
+    "date": "2025-09-01",
+    "accountId": "lab-fellowship",
+    "category": "Salary",
+    "amount": 3813,
+    "description": "Dr. Kevin Park - 75% effort"
+  },
+  {
+    "id": "tx-0046",
+    "date": "2025-09-01",
+    "accountId": "lab-fellowship",
+    "category": "Fringe",
+    "amount": 1525.2,
+    "description": "Dr. Kevin Park - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0255",
+    "date": "2025-09-01",
+    "accountId": "lab-fellowship",
+    "category": "Supplies",
+    "amount": 212.83,
+    "description": "Research allowance spending"
+  },
+  {
+    "id": "tx-0037",
+    "date": "2025-09-01",
+    "accountId": "lab-institutional",
+    "category": "Salary",
+    "amount": 3000,
+    "description": "Dr. John Smith - 18% effort"
+  },
+  {
+    "id": "tx-0038",
+    "date": "2025-09-01",
+    "accountId": "lab-institutional",
+    "category": "Fringe",
+    "amount": 1200,
+    "description": "Dr. John Smith - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0041",
+    "date": "2025-09-01",
+    "accountId": "lab-institutional",
+    "category": "Salary",
+    "amount": 1733.33,
+    "description": "Emily Chen - 40% effort"
+  },
+  {
+    "id": "tx-0042",
+    "date": "2025-09-01",
+    "accountId": "lab-institutional",
+    "category": "Fringe",
+    "amount": 693.33,
+    "description": "Emily Chen - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0043",
+    "date": "2025-09-01",
+    "accountId": "lab-institutional",
+    "category": "Salary",
+    "amount": 2083.33,
+    "description": "David Nguyen - 50% effort"
+  },
+  {
+    "id": "tx-0044",
+    "date": "2025-09-01",
+    "accountId": "lab-institutional",
+    "category": "Fringe",
+    "amount": 833.33,
+    "description": "David Nguyen - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0222",
+    "date": "2025-09-01",
+    "accountId": "lab-institutional",
+    "category": "Supplies",
+    "amount": 1879.56,
+    "description": "Lab reagents and consumables"
+  },
+  {
+    "id": "tx-0223",
+    "date": "2025-09-01",
+    "accountId": "lab-institutional",
+    "category": "Other",
+    "amount": 190.53,
+    "description": "Core facility fees"
+  },
+  {
+    "id": "tx-0061",
+    "date": "2025-10-01",
+    "accountId": "core-grant-2",
+    "category": "Salary",
+    "amount": 2500,
+    "description": "Dr. John Smith - 15% effort"
+  },
+  {
+    "id": "tx-0062",
+    "date": "2025-10-01",
+    "accountId": "core-grant-2",
+    "category": "Fringe",
+    "amount": 1000,
+    "description": "Dr. John Smith - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0073",
+    "date": "2025-10-01",
+    "accountId": "core-grant-2",
+    "category": "Salary",
+    "amount": 2916.67,
+    "description": "Lisa Johnson - 50% effort"
+  },
+  {
+    "id": "tx-0074",
+    "date": "2025-10-01",
+    "accountId": "core-grant-2",
+    "category": "Fringe",
+    "amount": 1166.67,
+    "description": "Lisa Johnson - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0077",
+    "date": "2025-10-01",
+    "accountId": "core-grant-2",
+    "category": "Salary",
+    "amount": 2000,
+    "description": "Michael Brown - 50% effort"
+  },
+  {
+    "id": "tx-0078",
+    "date": "2025-10-01",
+    "accountId": "core-grant-2",
+    "category": "Fringe",
+    "amount": 800,
+    "description": "Michael Brown - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0081",
+    "date": "2025-10-01",
+    "accountId": "core-grant-2",
+    "category": "Salary",
+    "amount": 6020.83,
+    "description": "Dr. Rachel Davis - 85% effort"
+  },
+  {
+    "id": "tx-0082",
+    "date": "2025-10-01",
+    "accountId": "core-grant-2",
+    "category": "Fringe",
+    "amount": 2408.33,
+    "description": "Dr. Rachel Davis - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0303",
+    "date": "2025-10-01",
+    "accountId": "core-grant-2",
+    "category": "Supplies",
+    "amount": 2130.78,
+    "description": "Core research supplies"
+  },
+  {
+    "id": "tx-0304",
+    "date": "2025-10-01",
+    "accountId": "core-grant-2",
+    "category": "Animal Costs",
+    "amount": 1147.3,
+    "description": "Core-funded animal studies"
+  },
+  {
+    "id": "tx-0305",
+    "date": "2025-10-01",
+    "accountId": "core-grant-2",
+    "category": "Equipment",
+    "amount": 1903.31,
+    "description": "Core equipment and upgrades"
+  },
+  {
+    "id": "tx-0306",
+    "date": "2025-10-01",
+    "accountId": "core-grant-2",
+    "category": "Other",
+    "amount": 386.34,
+    "description": "Software, services, misc"
+  },
+  {
+    "id": "tx-0071",
+    "date": "2025-10-01",
+    "accountId": "core-institutional",
+    "category": "Salary",
+    "amount": 1166.67,
+    "description": "Lisa Johnson - 20% effort"
+  },
+  {
+    "id": "tx-0072",
+    "date": "2025-10-01",
+    "accountId": "core-institutional",
+    "category": "Fringe",
+    "amount": 466.67,
+    "description": "Lisa Johnson - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0075",
+    "date": "2025-10-01",
+    "accountId": "core-institutional",
+    "category": "Salary",
+    "amount": 1000,
+    "description": "Michael Brown - 25% effort"
+  },
+  {
+    "id": "tx-0076",
+    "date": "2025-10-01",
+    "accountId": "core-institutional",
+    "category": "Fringe",
+    "amount": 400,
+    "description": "Michael Brown - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0079",
+    "date": "2025-10-01",
+    "accountId": "core-institutional",
+    "category": "Salary",
+    "amount": 1062.5,
+    "description": "Dr. Rachel Davis - 15% effort"
+  },
+  {
+    "id": "tx-0080",
+    "date": "2025-10-01",
+    "accountId": "core-institutional",
+    "category": "Fringe",
+    "amount": 425,
+    "description": "Dr. Rachel Davis - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0278",
+    "date": "2025-10-01",
+    "accountId": "core-institutional",
+    "category": "Supplies",
+    "amount": 255.97,
+    "description": "Core operational supplies"
+  },
+  {
+    "id": "tx-0279",
+    "date": "2025-10-01",
+    "accountId": "core-institutional",
+    "category": "Animal Costs",
+    "amount": 214.59,
+    "description": "Animal housing — core facility"
+  },
+  {
+    "id": "tx-0067",
+    "date": "2025-10-01",
+    "accountId": "lab-fellowship",
+    "category": "Salary",
+    "amount": 3813,
+    "description": "Dr. Kevin Park - 75% effort"
+  },
+  {
+    "id": "tx-0068",
+    "date": "2025-10-01",
+    "accountId": "lab-fellowship",
+    "category": "Fringe",
+    "amount": 1525.2,
+    "description": "Dr. Kevin Park - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0256",
+    "date": "2025-10-01",
+    "accountId": "lab-fellowship",
+    "category": "Supplies",
+    "amount": 668.54,
+    "description": "Research allowance spending"
+  },
+  {
+    "id": "tx-0059",
+    "date": "2025-10-01",
+    "accountId": "lab-institutional",
+    "category": "Salary",
+    "amount": 3000,
+    "description": "Dr. John Smith - 18% effort"
+  },
+  {
+    "id": "tx-0060",
+    "date": "2025-10-01",
+    "accountId": "lab-institutional",
+    "category": "Fringe",
+    "amount": 1200,
+    "description": "Dr. John Smith - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0063",
+    "date": "2025-10-01",
+    "accountId": "lab-institutional",
+    "category": "Salary",
+    "amount": 1733.33,
+    "description": "Emily Chen - 40% effort"
+  },
+  {
+    "id": "tx-0064",
+    "date": "2025-10-01",
+    "accountId": "lab-institutional",
+    "category": "Fringe",
+    "amount": 693.33,
+    "description": "Emily Chen - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0065",
+    "date": "2025-10-01",
+    "accountId": "lab-institutional",
+    "category": "Salary",
+    "amount": 2083.33,
+    "description": "David Nguyen - 50% effort"
+  },
+  {
+    "id": "tx-0066",
+    "date": "2025-10-01",
+    "accountId": "lab-institutional",
+    "category": "Fringe",
+    "amount": 833.33,
+    "description": "David Nguyen - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0224",
+    "date": "2025-10-01",
+    "accountId": "lab-institutional",
+    "category": "Supplies",
+    "amount": 2218.41,
+    "description": "Lab reagents and consumables"
+  },
+  {
+    "id": "tx-0225",
+    "date": "2025-10-01",
+    "accountId": "lab-institutional",
+    "category": "Equipment",
+    "amount": 6262.42,
+    "description": "Lab equipment maintenance/purchase"
+  },
+  {
+    "id": "tx-0226",
+    "date": "2025-10-01",
+    "accountId": "lab-institutional",
+    "category": "Other",
+    "amount": 368.55,
+    "description": "Core facility fees"
+  },
+  {
+    "id": "tx-0069",
+    "date": "2025-10-01",
+    "accountId": "lab-pilot",
+    "category": "Salary",
+    "amount": 1271,
+    "description": "Dr. Kevin Park - 25% effort"
+  },
+  {
+    "id": "tx-0070",
+    "date": "2025-10-01",
+    "accountId": "lab-pilot",
+    "category": "Fringe",
+    "amount": 508.4,
+    "description": "Dr. Kevin Park - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0261",
+    "date": "2025-10-01",
+    "accountId": "lab-pilot",
+    "category": "Supplies",
+    "amount": 769.42,
+    "description": "Pilot study reagents"
+  },
+  {
+    "id": "tx-0262",
+    "date": "2025-10-01",
+    "accountId": "lab-pilot",
+    "category": "Animal Costs",
+    "amount": 347.89,
+    "description": "Pilot study animal costs"
+  },
+  {
+    "id": "tx-0263",
+    "date": "2025-10-01",
+    "accountId": "lab-pilot",
+    "category": "Other",
+    "amount": 392.82,
+    "description": "Core facility services"
+  },
+  {
+    "id": "tx-0087",
+    "date": "2025-11-01",
+    "accountId": "core-grant-2",
+    "category": "Salary",
+    "amount": 2500,
+    "description": "Dr. John Smith - 15% effort"
+  },
+  {
+    "id": "tx-0088",
+    "date": "2025-11-01",
+    "accountId": "core-grant-2",
+    "category": "Fringe",
+    "amount": 1000,
+    "description": "Dr. John Smith - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0101",
+    "date": "2025-11-01",
+    "accountId": "core-grant-2",
+    "category": "Salary",
+    "amount": 2916.67,
+    "description": "Lisa Johnson - 50% effort"
+  },
+  {
+    "id": "tx-0102",
+    "date": "2025-11-01",
+    "accountId": "core-grant-2",
+    "category": "Fringe",
+    "amount": 1166.67,
+    "description": "Lisa Johnson - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0105",
+    "date": "2025-11-01",
+    "accountId": "core-grant-2",
+    "category": "Salary",
+    "amount": 2000,
+    "description": "Michael Brown - 50% effort"
+  },
+  {
+    "id": "tx-0106",
+    "date": "2025-11-01",
+    "accountId": "core-grant-2",
+    "category": "Fringe",
+    "amount": 800,
+    "description": "Michael Brown - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0109",
+    "date": "2025-11-01",
+    "accountId": "core-grant-2",
+    "category": "Salary",
+    "amount": 6020.83,
+    "description": "Dr. Rachel Davis - 85% effort"
+  },
+  {
+    "id": "tx-0110",
+    "date": "2025-11-01",
+    "accountId": "core-grant-2",
+    "category": "Fringe",
+    "amount": 2408.33,
+    "description": "Dr. Rachel Davis - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0307",
+    "date": "2025-11-01",
+    "accountId": "core-grant-2",
+    "category": "Supplies",
+    "amount": 1533.08,
+    "description": "Core research supplies"
+  },
+  {
+    "id": "tx-0308",
+    "date": "2025-11-01",
+    "accountId": "core-grant-2",
+    "category": "Animal Costs",
+    "amount": 1837.06,
+    "description": "Core-funded animal studies"
+  },
+  {
+    "id": "tx-0309",
+    "date": "2025-11-01",
+    "accountId": "core-grant-2",
+    "category": "Other",
+    "amount": 265.83,
+    "description": "Software, services, misc"
+  },
+  {
+    "id": "tx-0099",
+    "date": "2025-11-01",
+    "accountId": "core-institutional",
+    "category": "Salary",
+    "amount": 1166.67,
+    "description": "Lisa Johnson - 20% effort"
+  },
+  {
+    "id": "tx-0100",
+    "date": "2025-11-01",
+    "accountId": "core-institutional",
+    "category": "Fringe",
+    "amount": 466.67,
+    "description": "Lisa Johnson - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0103",
+    "date": "2025-11-01",
+    "accountId": "core-institutional",
+    "category": "Salary",
+    "amount": 1000,
+    "description": "Michael Brown - 25% effort"
+  },
+  {
+    "id": "tx-0104",
+    "date": "2025-11-01",
+    "accountId": "core-institutional",
+    "category": "Fringe",
+    "amount": 400,
+    "description": "Michael Brown - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0107",
+    "date": "2025-11-01",
+    "accountId": "core-institutional",
+    "category": "Salary",
+    "amount": 1062.5,
+    "description": "Dr. Rachel Davis - 15% effort"
+  },
+  {
+    "id": "tx-0108",
+    "date": "2025-11-01",
+    "accountId": "core-institutional",
+    "category": "Fringe",
+    "amount": 425,
+    "description": "Dr. Rachel Davis - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0280",
+    "date": "2025-11-01",
+    "accountId": "core-institutional",
+    "category": "Supplies",
+    "amount": 247.25,
+    "description": "Core operational supplies"
+  },
+  {
+    "id": "tx-0281",
+    "date": "2025-11-01",
+    "accountId": "core-institutional",
+    "category": "Animal Costs",
+    "amount": 162.63,
+    "description": "Animal housing — core facility"
+  },
+  {
+    "id": "tx-0095",
+    "date": "2025-11-01",
+    "accountId": "lab-fellowship",
+    "category": "Salary",
+    "amount": 3813,
+    "description": "Dr. Kevin Park - 75% effort"
+  },
+  {
+    "id": "tx-0096",
+    "date": "2025-11-01",
+    "accountId": "lab-fellowship",
+    "category": "Fringe",
+    "amount": 1525.2,
+    "description": "Dr. Kevin Park - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0257",
+    "date": "2025-11-01",
+    "accountId": "lab-fellowship",
+    "category": "Supplies",
+    "amount": 362.74,
+    "description": "Research allowance spending"
+  },
+  {
+    "id": "tx-0083",
+    "date": "2025-11-01",
+    "accountId": "lab-institutional",
+    "category": "Salary",
+    "amount": 3000,
+    "description": "Dr. John Smith - 18% effort"
+  },
+  {
+    "id": "tx-0084",
+    "date": "2025-11-01",
+    "accountId": "lab-institutional",
+    "category": "Fringe",
+    "amount": 1200,
+    "description": "Dr. John Smith - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0089",
+    "date": "2025-11-01",
+    "accountId": "lab-institutional",
+    "category": "Salary",
+    "amount": 1733.33,
+    "description": "Emily Chen - 40% effort"
+  },
+  {
+    "id": "tx-0090",
+    "date": "2025-11-01",
+    "accountId": "lab-institutional",
+    "category": "Fringe",
+    "amount": 693.33,
+    "description": "Emily Chen - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0093",
+    "date": "2025-11-01",
+    "accountId": "lab-institutional",
+    "category": "Salary",
+    "amount": 2083.33,
+    "description": "David Nguyen - 50% effort"
+  },
+  {
+    "id": "tx-0094",
+    "date": "2025-11-01",
+    "accountId": "lab-institutional",
+    "category": "Fringe",
+    "amount": 833.33,
+    "description": "David Nguyen - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0227",
+    "date": "2025-11-01",
+    "accountId": "lab-institutional",
+    "category": "Supplies",
+    "amount": 2404.72,
+    "description": "Lab reagents and consumables"
+  },
+  {
+    "id": "tx-0228",
+    "date": "2025-11-01",
+    "accountId": "lab-institutional",
+    "category": "Other",
+    "amount": 141.83,
+    "description": "Core facility fees"
+  },
+  {
+    "id": "tx-0097",
+    "date": "2025-11-01",
+    "accountId": "lab-pilot",
+    "category": "Salary",
+    "amount": 1271,
+    "description": "Dr. Kevin Park - 25% effort"
+  },
+  {
+    "id": "tx-0098",
+    "date": "2025-11-01",
+    "accountId": "lab-pilot",
+    "category": "Fringe",
+    "amount": 508.4,
+    "description": "Dr. Kevin Park - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0264",
+    "date": "2025-11-01",
+    "accountId": "lab-pilot",
+    "category": "Supplies",
+    "amount": 739.15,
+    "description": "Pilot study reagents"
+  },
+  {
+    "id": "tx-0265",
+    "date": "2025-11-01",
+    "accountId": "lab-pilot",
+    "category": "Animal Costs",
+    "amount": 788.5,
+    "description": "Pilot study animal costs"
+  },
+  {
+    "id": "tx-0085",
+    "date": "2025-11-01",
+    "accountId": "lab-r01-1",
+    "category": "Salary",
+    "amount": 5000,
+    "description": "Dr. John Smith - 30% effort"
+  },
+  {
+    "id": "tx-0086",
+    "date": "2025-11-01",
+    "accountId": "lab-r01-1",
+    "category": "Fringe",
+    "amount": 2000,
+    "description": "Dr. John Smith - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0091",
+    "date": "2025-11-01",
+    "accountId": "lab-r01-1",
+    "category": "Salary",
+    "amount": 2600,
+    "description": "Emily Chen - 60% effort"
+  },
+  {
+    "id": "tx-0092",
+    "date": "2025-11-01",
+    "accountId": "lab-r01-1",
+    "category": "Fringe",
+    "amount": 1040,
+    "description": "Emily Chen - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0238",
+    "date": "2025-11-01",
+    "accountId": "lab-r01-1",
+    "category": "Supplies",
+    "amount": 919.65,
+    "description": "Research reagents and assays"
+  },
+  {
+    "id": "tx-0239",
+    "date": "2025-11-01",
+    "accountId": "lab-r01-1",
+    "category": "Animal Costs",
+    "amount": 433.59,
+    "description": "Animal colony — research studies"
+  },
+  {
+    "id": "tx-0240",
+    "date": "2025-11-01",
+    "accountId": "lab-r01-1",
+    "category": "Other",
+    "amount": 125.74,
+    "description": "Publication fees and core services"
+  },
+  {
+    "id": "tx-0115",
+    "date": "2025-12-01",
+    "accountId": "core-grant-1",
+    "category": "Salary",
+    "amount": 1166.67,
+    "description": "Dr. John Smith - 7% effort"
+  },
+  {
+    "id": "tx-0116",
+    "date": "2025-12-01",
+    "accountId": "core-grant-1",
+    "category": "Fringe",
+    "amount": 466.67,
+    "description": "Dr. John Smith - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0131",
+    "date": "2025-12-01",
+    "accountId": "core-grant-1",
+    "category": "Salary",
+    "amount": 1750,
+    "description": "Lisa Johnson - 30% effort"
+  },
+  {
+    "id": "tx-0132",
+    "date": "2025-12-01",
+    "accountId": "core-grant-1",
+    "category": "Fringe",
+    "amount": 700,
+    "description": "Lisa Johnson - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0137",
+    "date": "2025-12-01",
+    "accountId": "core-grant-1",
+    "category": "Salary",
+    "amount": 1000,
+    "description": "Michael Brown - 25% effort"
+  },
+  {
+    "id": "tx-0138",
+    "date": "2025-12-01",
+    "accountId": "core-grant-1",
+    "category": "Fringe",
+    "amount": 400,
+    "description": "Michael Brown - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0289",
+    "date": "2025-12-01",
+    "accountId": "core-grant-1",
+    "category": "Supplies",
+    "amount": 328.61,
+    "description": "Core supplies"
+  },
+  {
+    "id": "tx-0290",
+    "date": "2025-12-01",
+    "accountId": "core-grant-1",
+    "category": "Animal Costs",
+    "amount": 299.84,
+    "description": "Core-funded animal studies"
+  },
+  {
+    "id": "tx-0117",
+    "date": "2025-12-01",
+    "accountId": "core-grant-2",
+    "category": "Salary",
+    "amount": 2500,
+    "description": "Dr. John Smith - 15% effort"
+  },
+  {
+    "id": "tx-0118",
+    "date": "2025-12-01",
+    "accountId": "core-grant-2",
+    "category": "Fringe",
+    "amount": 1000,
+    "description": "Dr. John Smith - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0133",
+    "date": "2025-12-01",
+    "accountId": "core-grant-2",
+    "category": "Salary",
+    "amount": 2916.67,
+    "description": "Lisa Johnson - 50% effort"
+  },
+  {
+    "id": "tx-0134",
+    "date": "2025-12-01",
+    "accountId": "core-grant-2",
+    "category": "Fringe",
+    "amount": 1166.67,
+    "description": "Lisa Johnson - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0139",
+    "date": "2025-12-01",
+    "accountId": "core-grant-2",
+    "category": "Salary",
+    "amount": 2000,
+    "description": "Michael Brown - 50% effort"
+  },
+  {
+    "id": "tx-0140",
+    "date": "2025-12-01",
+    "accountId": "core-grant-2",
+    "category": "Fringe",
+    "amount": 800,
+    "description": "Michael Brown - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0143",
+    "date": "2025-12-01",
+    "accountId": "core-grant-2",
+    "category": "Salary",
+    "amount": 6020.83,
+    "description": "Dr. Rachel Davis - 85% effort"
+  },
+  {
+    "id": "tx-0144",
+    "date": "2025-12-01",
+    "accountId": "core-grant-2",
+    "category": "Fringe",
+    "amount": 2408.33,
+    "description": "Dr. Rachel Davis - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0310",
+    "date": "2025-12-01",
+    "accountId": "core-grant-2",
+    "category": "Supplies",
+    "amount": 930.82,
+    "description": "Core research supplies"
+  },
+  {
+    "id": "tx-0311",
+    "date": "2025-12-01",
+    "accountId": "core-grant-2",
+    "category": "Animal Costs",
+    "amount": 1630.78,
+    "description": "Core-funded animal studies"
+  },
+  {
+    "id": "tx-0312",
+    "date": "2025-12-01",
+    "accountId": "core-grant-2",
+    "category": "Equipment",
+    "amount": 1451.6,
+    "description": "Core equipment and upgrades"
+  },
+  {
+    "id": "tx-0313",
+    "date": "2025-12-01",
+    "accountId": "core-grant-2",
+    "category": "Other",
+    "amount": 410.61,
+    "description": "Software, services, misc"
+  },
+  {
+    "id": "tx-0129",
+    "date": "2025-12-01",
+    "accountId": "core-institutional",
+    "category": "Salary",
+    "amount": 1166.67,
+    "description": "Lisa Johnson - 20% effort"
+  },
+  {
+    "id": "tx-0130",
+    "date": "2025-12-01",
+    "accountId": "core-institutional",
+    "category": "Fringe",
+    "amount": 466.67,
+    "description": "Lisa Johnson - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0135",
+    "date": "2025-12-01",
+    "accountId": "core-institutional",
+    "category": "Salary",
+    "amount": 1000,
+    "description": "Michael Brown - 25% effort"
+  },
+  {
+    "id": "tx-0136",
+    "date": "2025-12-01",
+    "accountId": "core-institutional",
+    "category": "Fringe",
+    "amount": 400,
+    "description": "Michael Brown - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0141",
+    "date": "2025-12-01",
+    "accountId": "core-institutional",
+    "category": "Salary",
+    "amount": 1062.5,
+    "description": "Dr. Rachel Davis - 15% effort"
+  },
+  {
+    "id": "tx-0142",
+    "date": "2025-12-01",
+    "accountId": "core-institutional",
+    "category": "Fringe",
+    "amount": 425,
+    "description": "Dr. Rachel Davis - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0282",
+    "date": "2025-12-01",
+    "accountId": "core-institutional",
+    "category": "Supplies",
+    "amount": 152.26,
+    "description": "Core operational supplies"
+  },
+  {
+    "id": "tx-0283",
+    "date": "2025-12-01",
+    "accountId": "core-institutional",
+    "category": "Animal Costs",
+    "amount": 149.39,
+    "description": "Animal housing — core facility"
+  },
+  {
+    "id": "tx-0125",
+    "date": "2025-12-01",
+    "accountId": "lab-fellowship",
+    "category": "Salary",
+    "amount": 3813,
+    "description": "Dr. Kevin Park - 75% effort"
+  },
+  {
+    "id": "tx-0126",
+    "date": "2025-12-01",
+    "accountId": "lab-fellowship",
+    "category": "Fringe",
+    "amount": 1525.2,
+    "description": "Dr. Kevin Park - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0258",
+    "date": "2025-12-01",
+    "accountId": "lab-fellowship",
+    "category": "Supplies",
+    "amount": 566.57,
+    "description": "Research allowance spending"
+  },
+  {
+    "id": "tx-0111",
+    "date": "2025-12-01",
+    "accountId": "lab-institutional",
+    "category": "Salary",
+    "amount": 3000,
+    "description": "Dr. John Smith - 18% effort"
+  },
+  {
+    "id": "tx-0112",
+    "date": "2025-12-01",
+    "accountId": "lab-institutional",
+    "category": "Fringe",
+    "amount": 1200,
+    "description": "Dr. John Smith - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0119",
+    "date": "2025-12-01",
+    "accountId": "lab-institutional",
+    "category": "Salary",
+    "amount": 1733.33,
+    "description": "Emily Chen - 40% effort"
+  },
+  {
+    "id": "tx-0120",
+    "date": "2025-12-01",
+    "accountId": "lab-institutional",
+    "category": "Fringe",
+    "amount": 693.33,
+    "description": "Emily Chen - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0123",
+    "date": "2025-12-01",
+    "accountId": "lab-institutional",
+    "category": "Salary",
+    "amount": 2083.33,
+    "description": "David Nguyen - 50% effort"
+  },
+  {
+    "id": "tx-0124",
+    "date": "2025-12-01",
+    "accountId": "lab-institutional",
+    "category": "Fringe",
+    "amount": 833.33,
+    "description": "David Nguyen - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0229",
+    "date": "2025-12-01",
+    "accountId": "lab-institutional",
+    "category": "Supplies",
+    "amount": 3748.65,
+    "description": "Lab reagents and consumables"
+  },
+  {
+    "id": "tx-0230",
+    "date": "2025-12-01",
+    "accountId": "lab-institutional",
+    "category": "Equipment",
+    "amount": 7038.52,
+    "description": "Lab equipment maintenance/purchase"
+  },
+  {
+    "id": "tx-0231",
+    "date": "2025-12-01",
+    "accountId": "lab-institutional",
+    "category": "Other",
+    "amount": 280.48,
+    "description": "Core facility fees"
+  },
+  {
+    "id": "tx-0127",
+    "date": "2025-12-01",
+    "accountId": "lab-pilot",
+    "category": "Salary",
+    "amount": 1271,
+    "description": "Dr. Kevin Park - 25% effort"
+  },
+  {
+    "id": "tx-0128",
+    "date": "2025-12-01",
+    "accountId": "lab-pilot",
+    "category": "Fringe",
+    "amount": 508.4,
+    "description": "Dr. Kevin Park - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0266",
+    "date": "2025-12-01",
+    "accountId": "lab-pilot",
+    "category": "Supplies",
+    "amount": 922.05,
+    "description": "Pilot study reagents"
+  },
+  {
+    "id": "tx-0267",
+    "date": "2025-12-01",
+    "accountId": "lab-pilot",
+    "category": "Animal Costs",
+    "amount": 343.08,
+    "description": "Pilot study animal costs"
+  },
+  {
+    "id": "tx-0113",
+    "date": "2025-12-01",
+    "accountId": "lab-r01-1",
+    "category": "Salary",
+    "amount": 5000,
+    "description": "Dr. John Smith - 30% effort"
+  },
+  {
+    "id": "tx-0114",
+    "date": "2025-12-01",
+    "accountId": "lab-r01-1",
+    "category": "Fringe",
+    "amount": 2000,
+    "description": "Dr. John Smith - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0121",
+    "date": "2025-12-01",
+    "accountId": "lab-r01-1",
+    "category": "Salary",
+    "amount": 2600,
+    "description": "Emily Chen - 60% effort"
+  },
+  {
+    "id": "tx-0122",
+    "date": "2025-12-01",
+    "accountId": "lab-r01-1",
+    "category": "Fringe",
+    "amount": 1040,
+    "description": "Emily Chen - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0241",
+    "date": "2025-12-01",
+    "accountId": "lab-r01-1",
+    "category": "Supplies",
+    "amount": 1014.7,
+    "description": "Research reagents and assays"
+  },
+  {
+    "id": "tx-0242",
+    "date": "2025-12-01",
+    "accountId": "lab-r01-1",
+    "category": "Animal Costs",
+    "amount": 562.83,
+    "description": "Animal colony — research studies"
+  },
+  {
+    "id": "tx-0243",
+    "date": "2025-12-01",
+    "accountId": "lab-r01-1",
+    "category": "Other",
+    "amount": 50.41,
+    "description": "Publication fees and core services"
+  },
+  {
+    "id": "tx-0149",
+    "date": "2026-01-01",
+    "accountId": "core-grant-1",
+    "category": "Salary",
+    "amount": 1166.67,
+    "description": "Dr. John Smith - 7% effort"
+  },
+  {
+    "id": "tx-0150",
+    "date": "2026-01-01",
+    "accountId": "core-grant-1",
+    "category": "Fringe",
+    "amount": 466.67,
+    "description": "Dr. John Smith - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0165",
+    "date": "2026-01-01",
+    "accountId": "core-grant-1",
+    "category": "Salary",
+    "amount": 1750,
+    "description": "Lisa Johnson - 30% effort"
+  },
+  {
+    "id": "tx-0166",
+    "date": "2026-01-01",
+    "accountId": "core-grant-1",
+    "category": "Fringe",
+    "amount": 700,
+    "description": "Lisa Johnson - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0171",
+    "date": "2026-01-01",
+    "accountId": "core-grant-1",
+    "category": "Salary",
+    "amount": 1000,
+    "description": "Michael Brown - 25% effort"
+  },
+  {
+    "id": "tx-0172",
+    "date": "2026-01-01",
+    "accountId": "core-grant-1",
+    "category": "Fringe",
+    "amount": 400,
+    "description": "Michael Brown - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0291",
+    "date": "2026-01-01",
+    "accountId": "core-grant-1",
+    "category": "Supplies",
+    "amount": 399.4,
+    "description": "Core supplies"
+  },
+  {
+    "id": "tx-0292",
+    "date": "2026-01-01",
+    "accountId": "core-grant-1",
+    "category": "Animal Costs",
+    "amount": 517.81,
+    "description": "Core-funded animal studies"
+  },
+  {
+    "id": "tx-0151",
+    "date": "2026-01-01",
+    "accountId": "core-grant-2",
+    "category": "Salary",
+    "amount": 2500,
+    "description": "Dr. John Smith - 15% effort"
+  },
+  {
+    "id": "tx-0152",
+    "date": "2026-01-01",
+    "accountId": "core-grant-2",
+    "category": "Fringe",
+    "amount": 1000,
+    "description": "Dr. John Smith - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0167",
+    "date": "2026-01-01",
+    "accountId": "core-grant-2",
+    "category": "Salary",
+    "amount": 2916.67,
+    "description": "Lisa Johnson - 50% effort"
+  },
+  {
+    "id": "tx-0168",
+    "date": "2026-01-01",
+    "accountId": "core-grant-2",
+    "category": "Fringe",
+    "amount": 1166.67,
+    "description": "Lisa Johnson - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0173",
+    "date": "2026-01-01",
+    "accountId": "core-grant-2",
+    "category": "Salary",
+    "amount": 2000,
+    "description": "Michael Brown - 50% effort"
+  },
+  {
+    "id": "tx-0174",
+    "date": "2026-01-01",
+    "accountId": "core-grant-2",
+    "category": "Fringe",
+    "amount": 800,
+    "description": "Michael Brown - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0177",
+    "date": "2026-01-01",
+    "accountId": "core-grant-2",
+    "category": "Salary",
+    "amount": 6020.83,
+    "description": "Dr. Rachel Davis - 85% effort"
+  },
+  {
+    "id": "tx-0178",
+    "date": "2026-01-01",
+    "accountId": "core-grant-2",
+    "category": "Fringe",
+    "amount": 2408.33,
+    "description": "Dr. Rachel Davis - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0314",
+    "date": "2026-01-01",
+    "accountId": "core-grant-2",
+    "category": "Supplies",
+    "amount": 1203.56,
+    "description": "Core research supplies"
+  },
+  {
+    "id": "tx-0315",
+    "date": "2026-01-01",
+    "accountId": "core-grant-2",
+    "category": "Animal Costs",
+    "amount": 2231.73,
+    "description": "Core-funded animal studies"
+  },
+  {
+    "id": "tx-0316",
+    "date": "2026-01-01",
+    "accountId": "core-grant-2",
+    "category": "Equipment",
+    "amount": 885.86,
+    "description": "Core equipment and upgrades"
+  },
+  {
+    "id": "tx-0317",
+    "date": "2026-01-01",
+    "accountId": "core-grant-2",
+    "category": "Other",
+    "amount": 363.86,
+    "description": "Software, services, misc"
+  },
+  {
+    "id": "tx-0163",
+    "date": "2026-01-01",
+    "accountId": "core-institutional",
+    "category": "Salary",
+    "amount": 1166.67,
+    "description": "Lisa Johnson - 20% effort"
+  },
+  {
+    "id": "tx-0164",
+    "date": "2026-01-01",
+    "accountId": "core-institutional",
+    "category": "Fringe",
+    "amount": 466.67,
+    "description": "Lisa Johnson - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0169",
+    "date": "2026-01-01",
+    "accountId": "core-institutional",
+    "category": "Salary",
+    "amount": 1000,
+    "description": "Michael Brown - 25% effort"
+  },
+  {
+    "id": "tx-0170",
+    "date": "2026-01-01",
+    "accountId": "core-institutional",
+    "category": "Fringe",
+    "amount": 400,
+    "description": "Michael Brown - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0175",
+    "date": "2026-01-01",
+    "accountId": "core-institutional",
+    "category": "Salary",
+    "amount": 1062.5,
+    "description": "Dr. Rachel Davis - 15% effort"
+  },
+  {
+    "id": "tx-0176",
+    "date": "2026-01-01",
+    "accountId": "core-institutional",
+    "category": "Fringe",
+    "amount": 425,
+    "description": "Dr. Rachel Davis - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0284",
+    "date": "2026-01-01",
+    "accountId": "core-institutional",
+    "category": "Supplies",
+    "amount": 207.86,
+    "description": "Core operational supplies"
+  },
+  {
+    "id": "tx-0285",
+    "date": "2026-01-01",
+    "accountId": "core-institutional",
+    "category": "Animal Costs",
+    "amount": 248.19,
+    "description": "Animal housing — core facility"
+  },
+  {
+    "id": "tx-0286",
+    "date": "2026-01-01",
+    "accountId": "core-institutional",
+    "category": "Equipment",
+    "amount": 378.73,
+    "description": "Core equipment maintenance"
+  },
+  {
+    "id": "tx-0159",
+    "date": "2026-01-01",
+    "accountId": "lab-fellowship",
+    "category": "Salary",
+    "amount": 3813,
+    "description": "Dr. Kevin Park - 75% effort"
+  },
+  {
+    "id": "tx-0160",
+    "date": "2026-01-01",
+    "accountId": "lab-fellowship",
+    "category": "Fringe",
+    "amount": 1525.2,
+    "description": "Dr. Kevin Park - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0259",
+    "date": "2026-01-01",
+    "accountId": "lab-fellowship",
+    "category": "Supplies",
+    "amount": 603.46,
+    "description": "Research allowance spending"
+  },
+  {
+    "id": "tx-0145",
+    "date": "2026-01-01",
+    "accountId": "lab-institutional",
+    "category": "Salary",
+    "amount": 3000,
+    "description": "Dr. John Smith - 18% effort"
+  },
+  {
+    "id": "tx-0146",
+    "date": "2026-01-01",
+    "accountId": "lab-institutional",
+    "category": "Fringe",
+    "amount": 1200,
+    "description": "Dr. John Smith - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0153",
+    "date": "2026-01-01",
+    "accountId": "lab-institutional",
+    "category": "Salary",
+    "amount": 1733.33,
+    "description": "Emily Chen - 40% effort"
+  },
+  {
+    "id": "tx-0154",
+    "date": "2026-01-01",
+    "accountId": "lab-institutional",
+    "category": "Fringe",
+    "amount": 693.33,
+    "description": "Emily Chen - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0157",
+    "date": "2026-01-01",
+    "accountId": "lab-institutional",
+    "category": "Salary",
+    "amount": 2083.33,
+    "description": "David Nguyen - 50% effort"
+  },
+  {
+    "id": "tx-0158",
+    "date": "2026-01-01",
+    "accountId": "lab-institutional",
+    "category": "Fringe",
+    "amount": 833.33,
+    "description": "David Nguyen - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0232",
+    "date": "2026-01-01",
+    "accountId": "lab-institutional",
+    "category": "Supplies",
+    "amount": 2202.95,
+    "description": "Lab reagents and consumables"
+  },
+  {
+    "id": "tx-0233",
+    "date": "2026-01-01",
+    "accountId": "lab-institutional",
+    "category": "Equipment",
+    "amount": 2272.93,
+    "description": "Lab equipment maintenance/purchase"
+  },
+  {
+    "id": "tx-0234",
+    "date": "2026-01-01",
+    "accountId": "lab-institutional",
+    "category": "Other",
+    "amount": 406.44,
+    "description": "Core facility fees"
+  },
+  {
+    "id": "tx-0161",
+    "date": "2026-01-01",
+    "accountId": "lab-pilot",
+    "category": "Salary",
+    "amount": 1271,
+    "description": "Dr. Kevin Park - 25% effort"
+  },
+  {
+    "id": "tx-0162",
+    "date": "2026-01-01",
+    "accountId": "lab-pilot",
+    "category": "Fringe",
+    "amount": 508.4,
+    "description": "Dr. Kevin Park - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0268",
+    "date": "2026-01-01",
+    "accountId": "lab-pilot",
+    "category": "Supplies",
+    "amount": 646.94,
+    "description": "Pilot study reagents"
+  },
+  {
+    "id": "tx-0269",
+    "date": "2026-01-01",
+    "accountId": "lab-pilot",
+    "category": "Animal Costs",
+    "amount": 513.41,
+    "description": "Pilot study animal costs"
+  },
+  {
+    "id": "tx-0147",
+    "date": "2026-01-01",
+    "accountId": "lab-r01-1",
+    "category": "Salary",
+    "amount": 5000,
+    "description": "Dr. John Smith - 30% effort"
+  },
+  {
+    "id": "tx-0148",
+    "date": "2026-01-01",
+    "accountId": "lab-r01-1",
+    "category": "Fringe",
+    "amount": 2000,
+    "description": "Dr. John Smith - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0155",
+    "date": "2026-01-01",
+    "accountId": "lab-r01-1",
+    "category": "Salary",
+    "amount": 2600,
+    "description": "Emily Chen - 60% effort"
+  },
+  {
+    "id": "tx-0156",
+    "date": "2026-01-01",
+    "accountId": "lab-r01-1",
+    "category": "Fringe",
+    "amount": 1040,
+    "description": "Emily Chen - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0244",
+    "date": "2026-01-01",
+    "accountId": "lab-r01-1",
+    "category": "Supplies",
+    "amount": 861.83,
+    "description": "Research reagents and assays"
+  },
+  {
+    "id": "tx-0245",
+    "date": "2026-01-01",
+    "accountId": "lab-r01-1",
+    "category": "Animal Costs",
+    "amount": 733.09,
+    "description": "Animal colony — research studies"
+  },
+  {
+    "id": "tx-0246",
+    "date": "2026-01-01",
+    "accountId": "lab-r01-1",
+    "category": "Other",
+    "amount": 155.3,
+    "description": "Publication fees and core services"
+  },
+  {
+    "id": "tx-0185",
+    "date": "2026-02-01",
+    "accountId": "core-grant-1",
+    "category": "Salary",
+    "amount": 1166.67,
+    "description": "Dr. John Smith - 7% effort"
+  },
+  {
+    "id": "tx-0186",
+    "date": "2026-02-01",
+    "accountId": "core-grant-1",
+    "category": "Fringe",
+    "amount": 466.67,
+    "description": "Dr. John Smith - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0203",
+    "date": "2026-02-01",
+    "accountId": "core-grant-1",
+    "category": "Salary",
+    "amount": 1750,
+    "description": "Lisa Johnson - 30% effort"
+  },
+  {
+    "id": "tx-0204",
+    "date": "2026-02-01",
+    "accountId": "core-grant-1",
+    "category": "Fringe",
+    "amount": 700,
+    "description": "Lisa Johnson - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0209",
+    "date": "2026-02-01",
+    "accountId": "core-grant-1",
+    "category": "Salary",
+    "amount": 1000,
+    "description": "Michael Brown - 25% effort"
+  },
+  {
+    "id": "tx-0210",
+    "date": "2026-02-01",
+    "accountId": "core-grant-1",
+    "category": "Fringe",
+    "amount": 400,
+    "description": "Michael Brown - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0293",
+    "date": "2026-02-01",
+    "accountId": "core-grant-1",
+    "category": "Supplies",
+    "amount": 384.11,
+    "description": "Core supplies"
+  },
+  {
+    "id": "tx-0294",
+    "date": "2026-02-01",
+    "accountId": "core-grant-1",
+    "category": "Animal Costs",
+    "amount": 507.41,
+    "description": "Core-funded animal studies"
+  },
+  {
+    "id": "tx-0295",
+    "date": "2026-02-01",
+    "accountId": "core-grant-1",
+    "category": "Equipment",
+    "amount": 602.18,
+    "description": "Core equipment"
+  },
+  {
+    "id": "tx-0187",
+    "date": "2026-02-01",
+    "accountId": "core-grant-2",
+    "category": "Salary",
+    "amount": 2500,
+    "description": "Dr. John Smith - 15% effort"
+  },
+  {
+    "id": "tx-0188",
+    "date": "2026-02-01",
+    "accountId": "core-grant-2",
+    "category": "Fringe",
+    "amount": 1000,
+    "description": "Dr. John Smith - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0205",
+    "date": "2026-02-01",
+    "accountId": "core-grant-2",
+    "category": "Salary",
+    "amount": 2916.67,
+    "description": "Lisa Johnson - 50% effort"
+  },
+  {
+    "id": "tx-0206",
+    "date": "2026-02-01",
+    "accountId": "core-grant-2",
+    "category": "Fringe",
+    "amount": 1166.67,
+    "description": "Lisa Johnson - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0211",
+    "date": "2026-02-01",
+    "accountId": "core-grant-2",
+    "category": "Salary",
+    "amount": 2000,
+    "description": "Michael Brown - 50% effort"
+  },
+  {
+    "id": "tx-0212",
+    "date": "2026-02-01",
+    "accountId": "core-grant-2",
+    "category": "Fringe",
+    "amount": 800,
+    "description": "Michael Brown - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0215",
+    "date": "2026-02-01",
+    "accountId": "core-grant-2",
+    "category": "Salary",
+    "amount": 6020.83,
+    "description": "Dr. Rachel Davis - 85% effort"
+  },
+  {
+    "id": "tx-0216",
+    "date": "2026-02-01",
+    "accountId": "core-grant-2",
+    "category": "Fringe",
+    "amount": 2408.33,
+    "description": "Dr. Rachel Davis - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0318",
+    "date": "2026-02-01",
+    "accountId": "core-grant-2",
+    "category": "Supplies",
+    "amount": 1874.5,
+    "description": "Core research supplies"
+  },
+  {
+    "id": "tx-0319",
+    "date": "2026-02-01",
+    "accountId": "core-grant-2",
+    "category": "Animal Costs",
+    "amount": 2126.53,
+    "description": "Core-funded animal studies"
+  },
+  {
+    "id": "tx-0320",
+    "date": "2026-02-01",
+    "accountId": "core-grant-2",
+    "category": "Travel",
+    "amount": 763.61,
+    "description": "Center meeting and workshop travel"
+  },
+  {
+    "id": "tx-0321",
+    "date": "2026-02-01",
+    "accountId": "core-grant-2",
+    "category": "Other",
+    "amount": 251.03,
+    "description": "Software, services, misc"
+  },
+  {
+    "id": "tx-0201",
+    "date": "2026-02-01",
+    "accountId": "core-institutional",
+    "category": "Salary",
+    "amount": 1166.67,
+    "description": "Lisa Johnson - 20% effort"
+  },
+  {
+    "id": "tx-0202",
+    "date": "2026-02-01",
+    "accountId": "core-institutional",
+    "category": "Fringe",
+    "amount": 466.67,
+    "description": "Lisa Johnson - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0207",
+    "date": "2026-02-01",
+    "accountId": "core-institutional",
+    "category": "Salary",
+    "amount": 1000,
+    "description": "Michael Brown - 25% effort"
+  },
+  {
+    "id": "tx-0208",
+    "date": "2026-02-01",
+    "accountId": "core-institutional",
+    "category": "Fringe",
+    "amount": 400,
+    "description": "Michael Brown - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0213",
+    "date": "2026-02-01",
+    "accountId": "core-institutional",
+    "category": "Salary",
+    "amount": 1062.5,
+    "description": "Dr. Rachel Davis - 15% effort"
+  },
+  {
+    "id": "tx-0214",
+    "date": "2026-02-01",
+    "accountId": "core-institutional",
+    "category": "Fringe",
+    "amount": 425,
+    "description": "Dr. Rachel Davis - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0287",
+    "date": "2026-02-01",
+    "accountId": "core-institutional",
+    "category": "Supplies",
+    "amount": 169.7,
+    "description": "Core operational supplies"
+  },
+  {
+    "id": "tx-0288",
+    "date": "2026-02-01",
+    "accountId": "core-institutional",
+    "category": "Animal Costs",
+    "amount": 243,
+    "description": "Animal housing — core facility"
+  },
+  {
+    "id": "tx-0197",
+    "date": "2026-02-01",
+    "accountId": "lab-fellowship",
+    "category": "Salary",
+    "amount": 3813,
+    "description": "Dr. Kevin Park - 75% effort"
+  },
+  {
+    "id": "tx-0198",
+    "date": "2026-02-01",
+    "accountId": "lab-fellowship",
+    "category": "Fringe",
+    "amount": 1525.2,
+    "description": "Dr. Kevin Park - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0260",
+    "date": "2026-02-01",
+    "accountId": "lab-fellowship",
+    "category": "Supplies",
+    "amount": 510.01,
+    "description": "Research allowance spending"
+  },
+  {
+    "id": "tx-0179",
+    "date": "2026-02-01",
+    "accountId": "lab-institutional",
+    "category": "Salary",
+    "amount": 3000,
+    "description": "Dr. John Smith - 18% effort"
+  },
+  {
+    "id": "tx-0180",
+    "date": "2026-02-01",
+    "accountId": "lab-institutional",
+    "category": "Fringe",
+    "amount": 1200,
+    "description": "Dr. John Smith - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0189",
+    "date": "2026-02-01",
+    "accountId": "lab-institutional",
+    "category": "Salary",
+    "amount": 1733.33,
+    "description": "Emily Chen - 40% effort"
+  },
+  {
+    "id": "tx-0190",
+    "date": "2026-02-01",
+    "accountId": "lab-institutional",
+    "category": "Fringe",
+    "amount": 693.33,
+    "description": "Emily Chen - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0193",
+    "date": "2026-02-01",
+    "accountId": "lab-institutional",
+    "category": "Salary",
+    "amount": 2083.33,
+    "description": "David Nguyen - 50% effort"
+  },
+  {
+    "id": "tx-0194",
+    "date": "2026-02-01",
+    "accountId": "lab-institutional",
+    "category": "Fringe",
+    "amount": 833.33,
+    "description": "David Nguyen - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0235",
+    "date": "2026-02-01",
+    "accountId": "lab-institutional",
+    "category": "Supplies",
+    "amount": 3907.94,
+    "description": "Lab reagents and consumables"
+  },
+  {
+    "id": "tx-0236",
+    "date": "2026-02-01",
+    "accountId": "lab-institutional",
+    "category": "Equipment",
+    "amount": 2690.26,
+    "description": "Lab equipment maintenance/purchase"
+  },
+  {
+    "id": "tx-0237",
+    "date": "2026-02-01",
+    "accountId": "lab-institutional",
+    "category": "Other",
+    "amount": 234.81,
+    "description": "Core facility fees"
+  },
+  {
+    "id": "tx-0199",
+    "date": "2026-02-01",
+    "accountId": "lab-pilot",
+    "category": "Salary",
+    "amount": 1271,
+    "description": "Dr. Kevin Park - 25% effort"
+  },
+  {
+    "id": "tx-0200",
+    "date": "2026-02-01",
+    "accountId": "lab-pilot",
+    "category": "Fringe",
+    "amount": 508.4,
+    "description": "Dr. Kevin Park - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0270",
+    "date": "2026-02-01",
+    "accountId": "lab-pilot",
+    "category": "Supplies",
+    "amount": 1494.24,
+    "description": "Pilot study reagents"
+  },
+  {
+    "id": "tx-0271",
+    "date": "2026-02-01",
+    "accountId": "lab-pilot",
+    "category": "Animal Costs",
+    "amount": 554.3,
+    "description": "Pilot study animal costs"
+  },
+  {
+    "id": "tx-0181",
+    "date": "2026-02-01",
+    "accountId": "lab-r01-1",
+    "category": "Salary",
+    "amount": 5000,
+    "description": "Dr. John Smith - 30% effort"
+  },
+  {
+    "id": "tx-0182",
+    "date": "2026-02-01",
+    "accountId": "lab-r01-1",
+    "category": "Fringe",
+    "amount": 2000,
+    "description": "Dr. John Smith - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0191",
+    "date": "2026-02-01",
+    "accountId": "lab-r01-1",
+    "category": "Salary",
+    "amount": 2600,
+    "description": "Emily Chen - 60% effort"
+  },
+  {
+    "id": "tx-0192",
+    "date": "2026-02-01",
+    "accountId": "lab-r01-1",
+    "category": "Fringe",
+    "amount": 1040,
+    "description": "Emily Chen - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0247",
+    "date": "2026-02-01",
+    "accountId": "lab-r01-1",
+    "category": "Supplies",
+    "amount": 1082.89,
+    "description": "Research reagents and assays"
+  },
+  {
+    "id": "tx-0248",
+    "date": "2026-02-01",
+    "accountId": "lab-r01-1",
+    "category": "Animal Costs",
+    "amount": 887.67,
+    "description": "Animal colony — research studies"
+  },
+  {
+    "id": "tx-0249",
+    "date": "2026-02-01",
+    "accountId": "lab-r01-1",
+    "category": "Other",
+    "amount": 175.39,
+    "description": "Publication fees and core services"
+  },
+  {
+    "id": "tx-0183",
+    "date": "2026-02-01",
+    "accountId": "lab-r01-2",
+    "category": "Salary",
+    "amount": 5000,
+    "description": "Dr. John Smith - 30% effort"
+  },
+  {
+    "id": "tx-0184",
+    "date": "2026-02-01",
+    "accountId": "lab-r01-2",
+    "category": "Fringe",
+    "amount": 2000,
+    "description": "Dr. John Smith - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0195",
+    "date": "2026-02-01",
+    "accountId": "lab-r01-2",
+    "category": "Salary",
+    "amount": 2083.33,
+    "description": "David Nguyen - 50% effort"
+  },
+  {
+    "id": "tx-0196",
+    "date": "2026-02-01",
+    "accountId": "lab-r01-2",
+    "category": "Fringe",
+    "amount": 833.33,
+    "description": "David Nguyen - fringe benefits (40%)"
+  },
+  {
+    "id": "tx-0250",
+    "date": "2026-02-01",
+    "accountId": "lab-r01-2",
+    "category": "Supplies",
+    "amount": 1427.92,
+    "description": "Initial supplies and setup"
+  },
+  {
+    "id": "tx-0251",
+    "date": "2026-02-01",
+    "accountId": "lab-r01-2",
+    "category": "Animal Costs",
+    "amount": 1417.8,
+    "description": "Animal colony — initial setup"
+  },
+  {
+    "id": "tx-0252",
+    "date": "2026-02-01",
+    "accountId": "lab-r01-2",
+    "category": "Other",
+    "amount": 70.92,
+    "description": "Misc setup costs"
+  }
+]
